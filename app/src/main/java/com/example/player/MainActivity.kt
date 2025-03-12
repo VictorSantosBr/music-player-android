@@ -48,6 +48,7 @@ class MainActivity : AppCompatActivity() {
 
         click()
         changeActivity()
+
     }
     private fun click() {
         binding.play.setOnClickListener {
